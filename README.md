@@ -3,7 +3,7 @@
 **Authors:** HICHEM FELOUAT, HUY H. NGUYEN, TRUNG-NGHIA LE, JUNICHI YAMAGISHI, and ISAO ECHIZEN
 
 
-[Image description or link here]
+[images/dataset_results.png]
 
 ## Project Overview
 
