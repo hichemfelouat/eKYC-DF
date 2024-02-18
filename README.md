@@ -17,6 +17,7 @@ The reliability of remote identity-proofing systems (\textit{i.e.}, electronic K
 
 ## Usage
 
+Coming soon!
 
 ## Citation
 
@@ -24,7 +25,7 @@ Please cite this dataset as follows:
 
 ## Contact
 
-For inquiries or feedback, please contact us at:
+For inquiries or feedback, please get in touch with us at:
 
 (hichemfel@gmail.com, hichemfel@nii.ac.jp)
 
