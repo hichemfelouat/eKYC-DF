@@ -22,6 +22,18 @@ Coming soon!
 ## Citation
 
 Please cite this dataset as follows:
+```bibtex
+@article{eKYC-DF,
+  author={Felouat, Hichem and Nguyen, Huy H. and Le, Trung-Nghia and Yamagishi, Junichi and Echizen, Isao},
+  title={eKYC-DF: A Large-Scale Deepfake Dataset for Developing and Evaluating eKYC Systems}, 
+  journal={IEEE Access}, 
+  year={2024},
+  volume={12},
+  pages={30876-30892},
+  }
+```
+
+
 
 ## Contact
 
